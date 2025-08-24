@@ -110,8 +110,8 @@ export default function Portfolio() {
           {[
             '/reflection-1.jpg',
             '/isa-prom.jpg',
-            '/isa-bass.jpg',
             '/isa-teaching.jpg',
+            '/isa-bass.jpg',
             '/isa-lab.jpg',
             '/reflection-5.jpg',
             '/isa-nachos.jpg',
